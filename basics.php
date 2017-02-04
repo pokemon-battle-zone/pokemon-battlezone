@@ -1,6 +1,6 @@
 <?php include 'header.php' ?>
 <div class="container">
-    <h1>Pokemon Battlezone</h1>
+    <h1>The Basics</h1>
 </div>
 
 

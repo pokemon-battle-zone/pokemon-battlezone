@@ -1,6 +1,6 @@
 <?php include 'header.php' ?>
 <div class="container">
-    <h1>Pokemon Battlezone</h1>
+    <h1>Team Building</h1>
 </div>
 
 
@@ -9,4 +9,4 @@
 
 
 
-<?php include 'footer.php' ?>
+<?php include 'footer.php' ?>\
